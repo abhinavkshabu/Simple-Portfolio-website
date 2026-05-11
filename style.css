@@ -1,0 +1,34 @@
+body {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: "Futura", Courier, monospace;
+    padding: 20px;
+}
+
+h1 {
+    color: #FF0000;
+}
+
+h2 {
+    color: #FFFF00;
+    text-decoration: underline;
+}
+
+.main-content {
+    border: 3px dashed #00FF00;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+a {
+    color: #00FFFF;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+hr {
+    border: 1px solid #00FF00;
+    margin: 20px 0;
+}
